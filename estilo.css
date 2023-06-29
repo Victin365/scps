@@ -1,0 +1,83 @@
+:root {
+  --cor1: #9e0505;
+  --cor2: #000000;
+  --cor3: #f9f9f1;
+}
+body {
+  color: rgb(0, 0, 0);
+  background-color: var(--cor3);
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: var(--cor1);
+  height: 220px;
+  text-align: center;
+}
+nav {
+  background-color: var(--cor2);
+  height: 60px;
+}
+
+.keter {
+  background-color: rgb(230, 86, 34);
+  margin-left: 60px;
+  font-size: 20px;
+  font-weight: 0;
+}
+.thaumiel {
+  background-color: red;
+  margin-left: 60px;
+  font-size: 20px;
+  font-weight: 0;
+}
+.apollyon {
+  background-color: purple;
+  margin-left: 60px;
+  font-size: 20px;
+  font-weight: 0;
+}
+.explained {
+  background-color: green;
+  margin-left: 60px;
+  font-size: 20px;
+  font-weight: 0;
+}
+.neutralized {
+  background-color: rgb(19, 65, 47);
+  margin-left: 60px;
+  font-size: 20px;
+  font-weight: 0;
+}
+.joke {
+  background-color: rgb(194, 8, 211);
+  margin-left: 60px;
+  font-size: 20px;
+  font-weight: 0;
+}
+.nome {
+  margin: 0;
+  position: relative;
+  top: 30px;
+}
+.classe {
+  margin: 0px;
+  color: var(--cor1);
+  font-size: 20px;
+}
+.keterimg {
+  background-color: var(--cor1);
+  height: 220px;
+  text-align: center;
+  position: relative;
+}
+.body2 {
+  color: var(--cor1);
+  background-color: lightgray;
+  margin: none;
+  padding: none;
+}
+.texto{
+  color: var(--cor2);
+}
